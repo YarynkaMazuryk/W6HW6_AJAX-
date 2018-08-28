@@ -1,0 +1,33 @@
+#wrapper {
+    background: #FFE4B5;
+    width: 1000px;
+}
+#wrapper, .poster{
+    border-radius: 10px 10px 10px 10px; 
+}
+.filmsContainer {
+    margin: 0 auto;
+}
+.poster {
+    margin: 10px;
+    background: rgba(216,191,216,0.3);
+    text-align: center;
+}
+.poster p:nth-child(1) {
+    font-weight: bold;
+}
+.poster p:nth-child(2) {
+    text-align: justify;
+}
+.poster img {
+    width: 90%;
+    margin: 10px 0 10px 0px;
+}
+.search {
+    background: #87CEEB;
+    border: 1px solid #87CEEB;
+}
+.styleError {
+    color: red;
+    font-weight: bold;
+}

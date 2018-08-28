@@ -1,0 +1,8 @@
+.styleInfo {
+    border: 2px solid #444;
+    width: 30%;
+    margin: 10px 0px 10px 0px;
+}
+.styleError {
+    color: red;
+}

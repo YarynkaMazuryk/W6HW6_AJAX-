@@ -1,0 +1,27 @@
+.button {
+    text-align: center;
+}
+#prev, #next {
+    border: 1px solid  rgb(251, 255, 0);;
+    color: #222;
+    background: rgba(190, 185, 185);
+    height: 45px;
+    width: 85px;
+}
+.styleContainer {
+    border: 1px solid rgb(251, 255, 0);
+    float: left;
+    margin: 15px;
+    height: auto;
+    width: auto;
+}
+.styleContainer img {
+    width: auto;
+}
+.styleInfo {
+    height: auto;
+    width: auto;
+    background: rgba(190, 185, 185);
+    font-size: 15px;
+}
+
